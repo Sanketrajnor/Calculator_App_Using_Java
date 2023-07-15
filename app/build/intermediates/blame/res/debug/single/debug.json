@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_input_layout.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\src\\main\\res\\layout\\input_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_btn.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\src\\main\\res\\drawable\\round_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_buttons.xml.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\src\\main\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_calci.jpg.flat",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\CalculatorApp-master\\app\\src\\main\\res\\drawable\\calci.jpg"
+    }
+]
